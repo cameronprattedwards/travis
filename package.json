@@ -4,7 +4,7 @@
   "description": "I'm a description",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'poop'"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
     "url": "https://github.com/cameronprattedwards/travis/issues"
   },
   "homepage": "https://github.com/cameronprattedwards/travis",
-  "scripts": {
-    "test": "echo 'poop'"
+  "devDependencies": {
+    "express": "~4.8.3"
   }
 }
