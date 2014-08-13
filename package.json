@@ -1,0 +1,27 @@
+{
+  "name": "travis",
+  "version": "0.0.0",
+  "description": "I'm a description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'poop'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cameronprattedwards/travis.git"
+  },
+  "keywords": [
+    "some",
+    "travis",
+    "test"
+  ],
+  "author": "Cameron Edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameronprattedwards/travis/issues"
+  },
+  "homepage": "https://github.com/cameronprattedwards/travis",
+  "devDependencies": {
+    "express": "~4.8.3"
+  }
+}
