@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/cameronprattedwards/travis/issues"
   },
-  "homepage": "https://github.com/cameronprattedwards/travis"
+  "homepage": "https://github.com/cameronprattedwards/travis",
+  "scripts": {
+    "test": "echo 'poop'"
+  }
 }
